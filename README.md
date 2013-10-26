@@ -1,0 +1,2 @@
+jquery-Flipster-Responsive
+==========================
